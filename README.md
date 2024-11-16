@@ -1,6 +1,6 @@
 # DSA-BOOT-CAMP
 We post a weekly data structure and algorithm challenge. Just solve it in any language you prefer.
-"You’ll get 10 questions every week, posted every Monday. Complete them before Sunday. Make sure to organize your work in the appropriate year and date folder. For example, for 2024, the folder name would be '2024', and the date folder could be '11-11-17-11', meaning the tasks for November 11 to November 17 should be completed within that week."
+keeping code, dont be a cry baby.
 
 
 ## Contributing

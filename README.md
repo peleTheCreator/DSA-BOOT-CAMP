@@ -4,7 +4,7 @@ We post a weekly data structure and algorithm challenge. Just solve it in any la
 
 ## Contributing
 
- ### Clone it, Keeping coding, Dont by a cry baby
+Clone it, Keeping coding, Dont by a cry baby
 
 ## Installation
 

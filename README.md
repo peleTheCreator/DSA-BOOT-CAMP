@@ -9,7 +9,9 @@ You’ll receive 10 questions every week, posted every Monday. You must complete
   ### Workflow
   All code contributions should be made on the 'dev' branch. Once you're done, create a pull request (PR) to merge your changes into the 'main' branch.
 
-
+  ### Community
+  https://chat.whatsapp.com/GuAOyTujjSf7WHSf1YTe1M
+  
 ## Installation
 
 Provide step-by-step instructions on how to set up the project.

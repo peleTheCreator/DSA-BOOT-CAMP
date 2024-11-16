@@ -13,5 +13,5 @@ Provide step-by-step instructions on how to set up the project.
 
 ```bash
 # Example command
-git clone https://github.com/7COM1079-A99/A99 
+git clone https://github.com/peleTheCreator/DSA-BOOT-CAMP.git
 cd yourproject

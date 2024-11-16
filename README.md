@@ -9,17 +9,17 @@ You’ll receive 10 questions every week, posted every Monday. You must complete
   ### Workflow
   All contributions should be made to the dev branch by forking the repository.
 
-  ###Steps to Fork and Create a Pull Request:
+  ### Steps to Fork and Create a Pull Request:
    Fork the repository on GitHub by clicking the Fork button in the top right corner of the repository’s page.
 
-  ###Clone your forked repository:
+  ### Clone your forked repository:
 
 ```bash
 Copy code
 git clone https://github.com/yourusername/repository.git
 Make your changes and commit them.
 ```
-  ###Push to your fork:
+  ### Push to your fork:
 
 ```bash
 Copy code
